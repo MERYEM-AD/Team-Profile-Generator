@@ -1,0 +1,21 @@
+@import url("https://use.fontawesome.com/releases/v5.13.0/css/all.css");
+body{
+    background-color:#D7C49EFF ;
+}
+.Banner{
+    background-color: #343148FF;
+    color: #D7C49EFF;
+
+}
+.Banner_Title{
+
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-size: 75px;
+
+}
+
+.cardBody{
+    background-color: aliceblue;
+    color: #343148FF;
+    font-family: 'M PLUS Code Latin', sans-serif;
+}
