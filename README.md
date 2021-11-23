@@ -9,6 +9,7 @@
   - [Tests](#tests)
   - [ScreenShot](#screenShot)
   - [Questions](#questions)
+  - [Links](#links)
   - [Copyright](#copyright)
   ## Installation
   To install dependencies , run this following command :
@@ -44,6 +45,10 @@ The User need to clone first the repo then install dependencies and run the file
   iF you have any questions about the repo you can contact me by email : adiri.meryem.mw@gmail.com.
 
   Follow me on [my Github account](https://github.com/MERYEM-AD).
+  
+  ## Links 
+  The URL of the GitHub repository: https://github.com/MERYEM-AD/Team-Profile-Generator
+  
   ## Copyright
 
    
